@@ -1,0 +1,4 @@
+[submodule "rte-rrtmgp"]
+	path = rte-rrtmgp
+	url = https://github.com/oelbert/rte-rrtmgp.git
+	branch = main
